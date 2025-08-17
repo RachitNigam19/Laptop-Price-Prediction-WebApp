@@ -14,7 +14,7 @@ A web application that predicts the price of a laptop based on its specification
 - Calculates screen PPI for better accuracy
 - Clean responsive UI with emojis and icons
 - Built with `Streamlit`, `scikit-learn`, and `numpy`
-
+ 
 ---
 
 ## 🧠 Model Info
