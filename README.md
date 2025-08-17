@@ -9,7 +9,7 @@ A web application that predicts the price of a laptop based on its specification
 - Predict laptop prices based on:
   - Brand, Type, CPU, GPU
   - RAM, Storage, Weight
-  - Screen Size, Resolution, IPS, Touchscreen
+ - Screen Size, Resolution, IPS, Touchscreen
   - Operating System
 - Calculates screen PPI for better accuracy
 - Clean responsive UI with emojis and icons
