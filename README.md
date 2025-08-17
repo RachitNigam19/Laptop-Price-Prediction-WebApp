@@ -5,7 +5,7 @@ A web application that predicts the price of a laptop based on its specification
 ---
 
 ## 🚀 Features
-
+ 
 - Predict laptop prices based on:
   - Brand, Type, CPU, GPU
   - RAM, Storage, Weight
