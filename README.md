@@ -1,4 +1,4 @@
-# 💻 Laptop Price Predictor
+ # 💻 Laptop Price Predictor
 
 A web application that predicts the price of a laptop based on its specifications using machine learning and an interactive Streamlit UI.
 
